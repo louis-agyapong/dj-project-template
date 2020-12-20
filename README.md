@@ -1,3 +1,3 @@
-# dj-project-template
+# Django Project Template
 
 Django project template
