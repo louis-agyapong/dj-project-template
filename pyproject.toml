@@ -10,6 +10,8 @@ Django = "^3.1.4"
 django-environ = "^0.4.5"
 django-debug-toolbar = "^3.2"
 isort = "^5.7.0"
+djangorestframework = "^3.12.2"
+flake8 = "^3.9.0"
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.19.0"
